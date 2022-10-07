@@ -1,6 +1,6 @@
 # Tp 1 Réseau
 
-## I. Explotation local Solo** 
+## I. Explotation local Solo 
 
 #### *1.  Affichage d'informations sur la pile TCP/IP locale*
 
@@ -28,8 +28,7 @@ MAC, 00-c0-e7-e0-04-4e
  
  Dans les paramètres, Réseau et internet, Paramètres réseau avancés, Propiétés du matériel et de la connexion.
  
-![](https://i.imgur.com/J30WkxP.png)
-
+![reference link](./screen/infoip.jpg)
 
 #### *2. Modifcations des informations*
 
@@ -39,7 +38,7 @@ MAC, 00-c0-e7-e0-04-4e
 
 Dans les paramètres, Réseau et internet, Wi-fi, Propiétés du matériel, Attribution d'adresse IP, Modifier .
 
-![](https://i.imgur.com/g8EJ7n8.png)
+![](./screen/modifip.png)
 
 **Il est possible que vous perdiez l'accès internet. Pourquoi ?** 
 
@@ -61,7 +60,7 @@ Si l'on prend une adresse déjà attribuée cela nous déconnectera du Wifi car 
 
 Dans les paramètres, Réseau et internet, Ethernet, Attribution d'adresse IP, Modifier .
 
-![](https://i.imgur.com/KYGulJW.png)
+![](./screen/modifiplan.png)
 
 **Vérifier à l'aide d'une commande que votre IP a bien été changée :**
 
@@ -218,16 +217,16 @@ Pour l'adresse 231.34.113.12, l'adresse n'est pas attribuer donc il nous renvoie
 
 ping : 
 
-![](https://i.imgur.com/t3dnqPe.png)
+![](./screen/ping.png)
 
     
 netcat :
 
-![](https://i.imgur.com/8sC7IUJ.png)
+![](./screen/netcat.png)
 
 DNS : 
 
-![](https://i.imgur.com/5Ma7tUB.png)
+![](./screen/dns.png)
 
 #### *2. Bonus : avant-goût TCP et UDP*
 

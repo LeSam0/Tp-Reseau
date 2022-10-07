@@ -28,7 +28,7 @@ MAC, 00-c0-e7-e0-04-4e
  
  Dans les paramètres, Réseau et internet, Paramètres réseau avancés, Propiétés du matériel et de la connexion.
  
-![reference link](./screen/infoip.jpg)
+![](./screen/infoip.png)
 
 #### *2. Modifcations des informations*
 
@@ -226,7 +226,7 @@ netcat :
 
 DNS : 
 
-![](./screen/dns.png)
+![](./screen/dns .png)
 
 #### *2. Bonus : avant-goût TCP et UDP*
 

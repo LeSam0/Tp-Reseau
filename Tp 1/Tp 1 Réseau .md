@@ -226,7 +226,7 @@ netcat :
 
 DNS : 
 
-![](./screen/dns .png)
+![](./screen/dns.png)
 
 #### *2. Bonus : avant-goût TCP et UDP*
 
